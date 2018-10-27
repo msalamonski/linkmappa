@@ -1,2 +1,3 @@
-# linkmappa
-link map stuff map of stuff
+# mapofstuff
+
+I'm the cooliest
