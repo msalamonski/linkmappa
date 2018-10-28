@@ -1,13 +1,18 @@
 	body 
 	{
-		background-color: #CAABCF;
-		font-family: 'Montserrat', sans-serif;
+		border-style: solid;
+		border-width: 5px;
+		border-color: black;
+		background-color: #EBE2B7;
+		font-family: 'Calluna', serif;
 		text-align: center;
 	}
 	
 	
 	b
 	{
+	   -webkit-text-stroke-width: 2px;
+   	   -webkit-text-stroke-color: black;
 	   text-align: center;
 	   color: #ffffff;
 	   font-size: 6em;
@@ -15,7 +20,9 @@
 
 	.text-space
 	{
-		margin-top: 5em;
+		margin-top: 0em;
+		color: #000000
+		/*font-size: 2px;*/
 
 	}
 
@@ -47,3 +54,9 @@ hr {
     box-shadow: 0 20px 5px -20px #333;
  margin: -50px auto 10px;
 }
+
+img { 
+   border:4px solid #000000;
+}
+
+
