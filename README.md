@@ -12,4 +12,4 @@ The app is simple, it pinpoints all the garbage cans on the map of New York City
 * **David**     [davidy9000](https://github.com/davidy9000)
 * **Esteban**   [mundoe1999](https://github.com/mundoe1999)
 * **Vincent**   [PokeLegoCuber](https://github.com/PokeLegoCuber)
-Special Thanks to **Yufan** [louy2](https://github.com/louy2)
+* Special Thanks to **Yufan**: [louy2](https://github.com/louy2)
