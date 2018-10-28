@@ -1,3 +1,4 @@
+https://msalamonski.github.io/linkmappa/
 # mapofstuff
 
 Open Street Maps API - points from open nyc data database 
