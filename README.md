@@ -7,7 +7,7 @@ linkMappa is an appa that links your crappa. Most New Yorkers throw their trash 
 
 Okay, for real this time: (rough draft)
 
-#linkMappa
+# linkMappa
 
 Trash and litter has always been a problem for such a big urban place as New York City. A lot of people throw their rubbish onto the street, instead of holding onto it until they reach a garbage recepticle. We now have a potential solution to this problem, and that is with our app, linkMappa! Now people can glance at their phones and find the closest garbage can near them. This even makes throwing out trash fun, as you are sort of 'trash can hunting'.
 
