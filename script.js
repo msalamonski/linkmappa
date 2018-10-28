@@ -10,7 +10,7 @@ var map = new ol.Map({
       zoom: 10
     })
   });
-  
+
 function add_map_point(lat, lng) {
     var vectorLayer = new ol.layer.Vector({
         source:new ol.source.Vector({
@@ -39,7 +39,7 @@ function get_data_point(){
             lat = datum[12];
             lng = datum[13];
             add_map_point(lat,lng);
-        }        
+        }
     });
 }
 
