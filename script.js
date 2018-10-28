@@ -1,3 +1,16 @@
+var map = new ol.Map({
+    target: 'map',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      })
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([-74.0060,40.7128]),
+      zoom: 10
+    })
+  });
+  
 function add_map_point(lat, lng) {
     var vectorLayer = new ol.layer.Vector({
         source:new ol.source.Vector({
@@ -7,9 +20,9 @@ function add_map_point(lat, lng) {
         }),
         style: new ol.style.Style({
             image: new ol.style.Icon({
-   anchor: [0.5, 0.5],
-anchorXUnits: "fraction",
-anchorYUnits: "fraction",
+    anchor: [0.5, 0.5],
+    anchorXUnits: "fraction",
+    anchorYUnits: "fraction",
 src: "https://upload.wikimedia.org/wikipedia/commons/e/ec/RedDot.svg"
             })
         })
