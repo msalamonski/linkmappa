@@ -57,6 +57,14 @@ header {
   grid-column: 1;
 }
 
+.mapContainer {
+  grid-row: 2/3;
+  grid-column: 1;
+
+  border-right: 2px solid;
+  border-bottom: 2px solid;
+}
+
 h1{
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
